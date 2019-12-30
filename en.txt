@@ -1,0 +1,386 @@
+1	English	application/x-vnd.dw-Paladin	787335371
+  Dec  Hex  Oct  Code  Description	AsciiWindow		  Dec  Hex  Oct  Code  Description
+ - Missing	ProjectList		 - Missing
+%filepath% already exists. Do you want to overwrite it?	Globals		%filepath% already exists. Do you want to overwrite it?
+%library% couldn't be found in the same place as it was under %platform%.	Project		%library% couldn't be found in the same place as it was under %platform%.
+%path% is on a read-only disk. Please copy the project to another disk or remount the disk with write support to be able to build it.\n	Paladin		%path% is on a read-only disk. Please copy the project to another disk or remount the disk with write support to be able to build it.\n
+%path% seems to be missing. Do you want to remove it from the project?	Project		%path% seems to be missing. Do you want to remove it from the project?
+%s seems to be missing\n	Project		%s seems to be missing\n
++	ProjectSettingsWindow		+
+−	ProjectSettingsWindow		−
+A summary of this license is not available.	LicenseManager		A summary of this license is not available.
+About Paladin	ProjectWindow		About Paladin
+Acknowledge	AsciiWindow	ASCII table description	Acknowledge
+Actions	CodeLibWindow		Actions
+Add	CodeLibWindow		Add
+Add a file to the include path list	ProjectSettingsWindow		Add a file to the include path list
+Add files to module…	CodeLibWindow		Add files to module…
+Add files…	ProjectWindow		Add files…
+Add license to project	LicenseManager		Add license to project
+Add new file	AddNewFileWindow		Add new file
+Add new file…	ProjectWindow		Add new file…
+Add project files to module…	CodeLibWindow		Add project files to module…
+Add selected files to repository	ProjectList		Add selected files to repository
+Add selected files to repository	ProjectWindow		Add selected files to repository
+Add to repository	ProjectWindow		Add to repository
+Anonymous check-out	SCMImportWindow		Anonymous check-out
+Application	ProjectSettingsWindow		Application
+Arguments: 	RunArgsWindow		Arguments: 
+ASCII table	AsciiWindow		ASCII table
+ASCII table	ProjectWindow		ASCII table
+Attempting to open %s\n	Paladin		Attempting to open %s\n
+Automatically synchronize modules	PrefsWindow		Automatically synchronize modules
+Automatically synchronize modules in your projects with the those in the code library	PrefsWindow		Automatically synchronize modules in your projects with the those in the code library
+Backing up project	ProjectWindow		Backing up project
+Backspace	AsciiWindow	ASCII table description	Backspace
+Backup project	ProjectWindow		Backup project
+Backups folder:	PrefsWindow		Backups folder:
+Bell	AsciiWindow	ASCII table description	Bell
+Browse…	PathBox		Browse…
+Build	PrefsWindow		Build
+Build	ProjectWindow		Build
+Build debugging information	ProjectSettingsWindow		Build debugging information
+Build failure\n%s	Paladin		Build failure\n%s
+Build had errors or warnings.	ProjectWindow		Build had errors or warnings.
+Build profiling information	ProjectSettingsWindow		Build profiling information
+Build successful.	ProjectWindow		Build successful.
+Build with just one thread instead of one thread per processor	PrefsWindow		Build with just one thread instead of one thread per processor
+Building 	ProjectWindow		Building 
+Building %s\n	Paladin		Building %s\n
+Can't find file %s\n	Paladin		Can't find file %s\n
+Cancel	AddNewFileWindow		Cancel
+Cancel	AsciiWindow	ASCII table description	Cancel
+Cancel	CodeLibWindow		Cancel
+Cancel	FindOpenFileWindow		Cancel
+Cancel	GetTextWindow		Cancel
+Cancel	Globals		Cancel
+Cancel	GroupRenameWindow		Cancel
+Cancel	ProjectWindow		Cancel
+Carriage return	AsciiWindow	ASCII table description	Carriage return
+Change system libraries…	ProjectWindow		Change system libraries…
+Check project in	ProjectWindow		Check project in
+Check this if you want to use your program in a debugger during development. You'll want to rebuild your project after change this.	ProjectSettingsWindow		Check this if you want to use your program in a debugger during development. You'll want to rebuild your project after change this.
+Check this if you want to use your program with gprof or bprof for profiling.	ProjectSettingsWindow		Check this if you want to use your program with gprof or bprof for profiling.
+Choose a project type	TemplateWindow		Choose a project type
+Choose project folder	StartWindow		Choose project folder
+Choose the name for the new module:	CodeLibWindow		Choose the name for the new module:
+Choose the project files you wish to import. You can select multiple files by clicking on items while holding the Command key (usually ALT).	CodeLibWindow		Choose the project files you wish to import. You can select multiple files by clicking on items while holding the Command key (usually ALT).
+Choose the source control manager for your project, if any.	TemplateWindow		Choose the source control manager for your project, if any.
+Choose the system libraries for your project:	LibWindow		Choose the system libraries for your project:
+Close	SCMOutputWindow		Close
+Code library	CodeLibWindow		Code library
+Code modules:	CodeLibWindow		Code modules:
+Command resulted in an error.\n	SourceControl		Command resulted in an error.\n
+Command succeeded. Use 'Import existing project' function in the main window to load the project from the local filesystem\n	SourceControl		Command succeeded. Use 'Import existing project' function in the main window to load the project from the local filesystem\n
+Command:	SCMImportWindow		Command:
+Commit	ProjectWindow		Commit
+Common libraries:	LibWindow		Common libraries:
+Compiler caching is another way to speed up builds	PrefsWindow		Compiler caching is another way to speed up builds
+Compiler optimization level. Disabled when debugging info is checked.	ProjectSettingsWindow		Compiler optimization level. Disabled when debugging info is checked.
+Copy list to clipboard	ErrorWindow		Copy list to clipboard
+Copy to clipboard	ErrorWindow		Copy to clipboard
+Couldn't find %file%.	FileUtils		Couldn't find %file%.
+Couldn't find %filename%. It may have been moved or renamed.	ProjectWindow		Couldn't find %filename%. It may have been moved or renamed.
+Couldn't find a partner file for %refname% in %reffolder%/.	Paladin		Couldn't find a partner file for %refname% in %reffolder%/.
+Create	AddNewFileWindow		Create
+Create a new project	StartWindow		Create a new project
+Create both a header and source file	AddNewFileWindow		Create both a header and source file
+Create module	CodeLibWindow		Create module
+Create new module…	CodeLibWindow		Create new module…
+Create project folder	TemplateWindow		Create project folder
+Create project…	TemplateWindow		Create project…
+Data link escape	AsciiWindow	ASCII table description	Data link escape
+Debug	ProjectWindow		Debug
+Debugging information needs to compiled into your project. This may take some time for large projects. Do you wish to rebuild and run the debugger?	ProjectWindow		Debugging information needs to compiled into your project. This may take some time for large projects. Do you wish to rebuild and run the debugger?
+Delete	AsciiWindow	ASCII table description	Delete
+Delete	CodeLibWindow		Delete
+Delete current module	CodeLibWindow		Delete current module
+Delete group	ProjectList		Delete group
+Delete group	ProjectWindow		Delete group
+Description:	CodeLibWindow		Description:
+Detected platform from uname: %s\n	Project		Detected platform from uname: %s\n
+Device Control 1	AsciiWindow	ASCII table description	Device Control 1
+Device Control 2	AsciiWindow	ASCII table description	Device Control 2
+Device Control 3	AsciiWindow	ASCII table description	Device Control 3
+Device Control 4	AsciiWindow	ASCII table description	Device Control 4
+Device driver	ProjectSettingsWindow		Device driver
+Differences	ProjectWindow		Differences
+Directory Init Check failed\n	QuickFindWindow		Directory Init Check failed\n
+Don't revert	ProjectWindow		Don't revert
+DoSearch started\n	QuickFindWindow		DoSearch started\n
+Empty build cache	ProjectWindow		Empty build cache
+Emptying build cache	ProjectWindow		Emptying build cache
+End of medium	AsciiWindow	ASCII table description	End of medium
+End of text	AsciiWindow	ASCII table description	End of text
+End of transmission	AsciiWindow	ASCII table description	End of transmission
+End of transmission block	AsciiWindow	ASCII table description	End of transmission block
+Enquiry	AsciiWindow	ASCII table description	Enquiry
+Enter text to search here:	VRegWindow		Enter text to search here:
+Enter the description for the changes in this revision.	ProjectWindow		Enter the description for the changes in this revision.
+Error window	ProjectWindow		Error window
+Errors	ErrorWindow		Errors
+Errors and warnings	ErrorWindow		Errors and warnings
+Errors and warnings: 	ErrorWindow		Errors and warnings: 
+Escape	AsciiWindow	ASCII table description	Escape
+Examining %file%	ProjectWindow		Examining %file%
+Examining source files	ProjectWindow		Examining source files
+Export module to project	CodeLibWindow		Export module to project
+Extra compiler options:	ProjectSettingsWindow		Extra compiler options:
+Extra GCC flags you wish included when each file is compiled.	ProjectSettingsWindow		Extra GCC flags you wish included when each file is compiled.
+Extra GCC linker flags you wish included when your project is linked.	ProjectSettingsWindow		Extra GCC linker flags you wish included when your project is linked.
+Extra linker options:	ProjectSettingsWindow		Extra linker options:
+File	ProjectWindow		File
+File separator	AsciiWindow	ASCII table description	File separator
+File to build a program with Paladin	FileUtils		File to build a program with Paladin
+Files in module:	CodeLibWindow		Files in module:
+Find	FindWindow		Find
+Find and open file	FindOpenFileWindow		Find and open file
+Find and open file…	ProjectWindow		Find and open file…
+Find files: 	QuickFindWindow		Find files: 
+Find in project	FindWindow		Find in project
+Find in project files…	ProjectWindow		Find in project files…
+Force file rebuild	ProjectList		Force file rebuild
+Force project to rebuild	ProjectWindow		Force project to rebuild
+Form feed	AsciiWindow	ASCII table description	Form feed
+Found: %s\n	QuickFindWindow		Found: %s\n
+Full	ProjectSettingsWindow		Full
+Full version:	LicenseManager		Full version:
+General	PrefsWindow		General
+General	ProjectSettingsWindow		General
+Generate makefile	ProjectWindow		Generate makefile
+Git	PrefsWindow		Git
+Git	SCMImportWindow		Git
+Git	SCMManager		Git
+Git	TemplateWindow		Git
+Git unavailable	TemplateWindow		Git unavailable
+Group separator	AsciiWindow	ASCII table description	Group separator
+Horizontal tab	AsciiWindow	ASCII table description	Horizontal tab
+If checked, a folder for your project will be created in the location entered above.	TemplateWindow		If checked, a folder for your project will be created in the location entered above.
+If checked, header files are not automatically added to projects.	PrefsWindow		If checked, header files are not automatically added to projects.
+Ignore case	FindWindow		Ignore case
+Import	SCMImportWindow		Import
+Import a project from an online repository	StartWindow		Import a project from an online repository
+Import a project from online	StartWindow		Import a project from online
+Import an existing project	StartWindow		Import an existing project
+Import from online	SCMImportWindow		Import from online
+Import from repository	SCMImportWindow		Import from repository
+Include paths:	ProjectSettingsWindow		Include paths:
+Keep	Project		Keep
+Libraries: 	LibWindow		Libraries: 
+License:	LicenseManager		License:
+Linking	ProjectWindow		Linking
+Linking\n	Paladin		Linking\n
+Location:	TemplateWindow		Location:
+luare based replace all has been removed until it can be migrated from Lua	FindWindow		luare based replace all has been removed until it can be migrated from Lua
+Make project	ProjectWindow		Make project
+Match whole word	FindWindow		Match whole word
+Matched text:	VRegWindow		Matched text:
+Mercurial	PrefsWindow		Mercurial
+Mercurial	SCMImportWindow		Mercurial
+Mercurial	SCMManager		Mercurial
+Mercurial	TemplateWindow		Mercurial
+Mercurial unavailable	TemplateWindow		Mercurial unavailable
+Method:	SCMImportWindow		Method:
+Methods	SCMImportWindow		Methods
+Module files	CodeLibWindow		Module files
+Modules	CodeLibWindow		Modules
+Monitor	MonitorWindow		Monitor
+More	ProjectSettingsWindow		More
+Negative acknowledge	AsciiWindow	ASCII table description	Negative acknowledge
+New file name:	AddNewFileWindow		New file name:
+New group	ProjectList		New group
+New group	ProjectWindow		New group
+New group name: 	GroupRenameWindow		New group name: 
+New line	AsciiWindow	ASCII table description	New line
+New name:	AddNewFileWindow		New name:
+New project…	ProjectWindow		New project…
+No	Paladin		No
+No matches found	FindWindow		No matches found
+None	PrefsWindow		None
+None	ProjectSettingsWindow		None
+None	SCMManager		None
+None	TemplateWindow		None
+NULL	AsciiWindow	ASCII table description	NULL
+NULL pointer in M_BUILDING_FILE\n	Paladin		NULL pointer in M_BUILDING_FILE\n
+OK	FileUtils		OK
+OK	FindWindow		OK
+OK	GetTextWindow		OK
+OK	Globals		OK
+OK	PathBox		OK
+OK	Project		OK
+OK	ProjectWindow		OK
+Omit header files from projects	PrefsWindow		Omit header files from projects
+Online import requires Mercurial, Git, and/or Subversion to be installed, but Paladin can't find them, sorry.	StartWindow		Online import requires Mercurial, Git, and/or Subversion to be installed, but Paladin can't find them, sorry.
+Open	FindOpenFileWindow		Open
+Open a project	StartWindow		Open a project
+Open a project in the list on the right. You can also press Command + a number key.	StartWindow		Open a project in the list on the right. You can also press Command + a number key.
+Open parent folder	ProjectList		Open parent folder
+Open project	StartWindow		Open project
+Open project…	ProjectWindow		Open project…
+Open recent project	ProjectWindow		Open recent project
+Open the selected project	StartWindow		Open the selected project
+Open: 	FindOpenFileWindow		Open: 
+Opening project...	ProjectWindow		Opening project...
+Optimization	ProjectSettingsWindow		Optimization
+Optimize for size over speed	ProjectSettingsWindow		Optimize for size over speed
+Optimize:	ProjectSettingsWindow		Optimize:
+Options	FindWindow		Options
+Overwrite	Globals		Overwrite
+Paladin	System name		Paladin
+Paladin can't seem to find the debugger. Sorry.	ProjectBuilder		Paladin can't seem to find the debugger. Sorry.
+Paladin project	FileUtils		Paladin project
+Paladin settings	PrefsWindow		Paladin settings
+Paladin: 	StartWindow		Paladin: 
+Paladin: Change description	ProjectWindow		Paladin: Change description
+Paladin: Open project	Paladin		Paladin: Open project
+Paladin: Project	ProjectWindow		Paladin: Project
+Paladin: Start	StartWindow		Paladin: Start
+Performing post-build tasks	ProjectWindow		Performing post-build tasks
+Preferred source control:	PrefsWindow		Preferred source control:
+Printing debug output with extra detail\n	Paladin		Printing debug output with extra detail\n
+Printing debug output\n	Paladin		Printing debug output\n
+Program settings…	ProjectWindow		Program settings…
+Project	FindWindow		Project
+Project	ProjectWindow		Project
+Project file '%projectname%.pld' already exists. The original file for this template is '%pldname%'. You'll need to open the project folder and figure out which one you wish to keep.	Paladin		Project file '%projectname%.pld' already exists. The original file for this template is '%pldname%'. You'll need to open the project folder and figure out which one you wish to keep.
+Project name:	TemplateWindow		Project name:
+Project opened.	ProjectWindow		Project opened.
+Project settings	ProjectSettingsWindow		Project settings
+Project status	ProjectWindow		Project status
+Project type	TemplateWindow		Project type
+Project type:	TemplateWindow		Project type:
+Project:	SCMImportWindow		Project:
+Projects	CodeLibWindow		Projects
+Projects folder:	PrefsWindow		Projects folder:
+Provider:	SCMImportWindow		Provider:
+Providers	SCMImportWindow		Providers
+Pull	ProjectWindow		Pull
+Pull changes from remote repository	ProjectWindow		Pull changes from remote repository
+Push	ProjectWindow		Push
+Push changes to remote repository	ProjectWindow		Push changes to remote repository
+Quick find	ProjectWindow		Quick find
+Quick find	QuickFindWindow		Quick find
+Quick find and open…	ProjectWindow		Quick find and open…
+Quickly make a project by importing all source files and resource files.\nYou can also import a BeIDE project.	StartWindow		Quickly make a project by importing all source files and resource files.\nYou can also import a BeIDE project.
+Rebuild	ProjectWindow		Rebuild
+Recent projects:	StartWindow		Recent projects:
+Record separator	AsciiWindow	ASCII table description	Record separator
+Regex:	VRegWindow		Regex:
+Regular expression	FindWindow		Regular expression
+Regular expression tester	ProjectWindow		Regular expression tester
+Regular expression tester	VRegWindow		Regular expression tester
+Remove	CodeLibWindow		Remove
+Remove	Project		Remove
+Remove files from module	CodeLibWindow		Remove files from module
+Remove from recent list	StartWindow		Remove from recent list
+Remove from repository	ProjectWindow		Remove from repository
+Remove selected files	ProjectList		Remove selected files
+Remove selected files	ProjectWindow		Remove selected files
+Remove selected files from repository	ProjectList		Remove selected files from repository
+Remove selected files from repository	ProjectWindow		Remove selected files from repository
+Remove the selected path	ProjectSettingsWindow		Remove the selected path
+Rename	GroupRenameWindow		Rename
+Rename file	AddNewFileWindow		Rename file
+Rename group	GroupRenameWindow		Rename group
+Rename group	ProjectWindow		Rename group
+Rename group…	ProjectList		Rename group…
+Rename partner file	AddNewFileWindow		Rename partner file
+Replace	FindWindow		Replace
+Replace all	FindWindow		Replace all
+Replacing it with %path%.	Project		Replacing it with %path%.
+Repository owner:	SCMImportWindow		Repository owner:
+Results:	FindWindow		Results:
+Revert	ProjectWindow		Revert
+Revert project	ProjectWindow		Revert project
+Revert selected files	ProjectList		Revert selected files
+Revert selected files	ProjectWindow		Revert selected files
+Run	ProjectWindow		Run
+Run arguments	RunArgsWindow		Run arguments
+Run logged	ProjectWindow		Run logged
+Scanning libraries…	LibWindow		Scanning libraries…
+Search	FindWindow		Search
+Search only system folders	FindOpenFileWindow		Search only system folders
+Searching for file matching: %s\n	QuickFindWindow		Searching for file matching: %s\n
+Selected project:	CodeLibWindow		Selected project:
+Set license	LicenseManager		Set license
+Set run arguments…	ProjectWindow		Set run arguments…
+Set software license…	ProjectWindow		Set software license…
+Set the location for your project.	TemplateWindow		Set the location for your project.
+Sets the location for project backups	PrefsWindow		Sets the location for project backups
+Sets the location for the 'server' side of local Subversion repositories.	PrefsWindow		Sets the location for the 'server' side of local Subversion repositories.
+Settings…	ProjectWindow		Settings…
+Shared library	ProjectSettingsWindow		Shared library
+Shift in	AsciiWindow	ASCII table description	Shift in
+Shift out	AsciiWindow	ASCII table description	Shift out
+Show changed files from last check-in	ProjectWindow		Show changed files from last check-in
+Show changes in selected files	ProjectList		Show changes in selected files
+Show differences	ProjectWindow		Show differences
+Show differences from last check-in	ProjectWindow		Show differences from last check-in
+Show project folder	ProjectWindow		Show project folder
+Show project folder on open	PrefsWindow		Show project folder on open
+Some	ProjectSettingsWindow		Some
+Sort group	ProjectList		Sort group
+Sort group	ProjectWindow		Sort group
+Source control	PrefsWindow		Source control
+Source Control	ProjectList		Source Control
+Source control	ProjectWindow		Source control
+Source control repository folder:	PrefsWindow		Source control repository folder:
+Source control:	TemplateWindow		Source control:
+Space	AsciiWindow	ASCII table description	Space
+Standard Error	ProjectWindow		Standard Error
+Standard Out	ProjectWindow		Standard Out
+Start of heading	AsciiWindow	ASCII table description	Start of heading
+Start of text	AsciiWindow	ASCII table description	Start of text
+Static library	ProjectSettingsWindow		Static library
+Substitute	AsciiWindow	ASCII table description	Substitute
+Subversion	PrefsWindow		Subversion
+Subversion	SCMImportWindow		Subversion
+Subversion	SCMManager		Subversion
+Subversion	TemplateWindow		Subversion
+Subversion unavailable	TemplateWindow		Subversion unavailable
+Success\n	Paladin		Success\n
+Summary:	LicenseManager		Summary:
+Symbol finder	ProjectWindow		Symbol finder
+Synchronous idle	AsciiWindow	ASCII table description	Synchronous idle
+System Develop libraries:	LibWindow		System Develop libraries:
+System libraries:	LibWindow		System libraries:
+Target name:	ProjectSettingsWindow		Target name:
+Target name:	TemplateWindow		Target name:
+Target type	ProjectSettingsWindow		Target type
+Target type:	ProjectSettingsWindow		Target type:
+Terminal output	TerminalWindow		Terminal output
+The default path for new projects.	PrefsWindow		The default path for new projects.
+The folders you want Paladin to search for header files	ProjectSettingsWindow		The folders you want Paladin to search for header files
+The following files had problems replacing the search terms:\n	FindWindow		The following files had problems replacing the search terms:\n
+The kind of program you want to build	ProjectSettingsWindow		The kind of program you want to build
+The location entered does not exist.\nPlease check to make sure you have entered it correctly.	PathBox		The location entered does not exist.\nPlease check to make sure you have entered it correctly.
+The name of the compiled application or library	TemplateWindow		The name of the compiled application or library
+The name of your project. It can be the same as the Target name, but it does not have to be.	TemplateWindow		The name of your project. It can be the same as the Target name, but it does not have to be.
+The project cannot be built because some of its files are missing.	ProjectWindow		The project cannot be built because some of its files are missing.
+These files (except libraries) will be permanently deleted. Remove them?	CodeLibWindow		These files (except libraries) will be permanently deleted. Remove them?
+This cannot be undone. Delete module?	CodeLibWindow		This cannot be undone. Delete module?
+This project is not under source control. Would you like to use %sourcecontrol% for this project?\nYou will only be asked this one time.	Paladin		This project is not under source control. Would you like to use %sourcecontrol% for this project?\nYou will only be asked this one time.
+This project is on a read-only disk. You will not be able to build it, but you can still view its files and do anything else that does not require saving to the disk.	Paladin		This project is on a read-only disk. You will not be able to build it, but you can still view its files and do anything else that does not require saving to the disk.
+This will undo all changes since the last commit. Continue?	ProjectWindow		This will undo all changes since the last commit. Continue?
+Tools	ProjectWindow		Tools
+Type to search	QuickFindWindow		Type to search
+Unable to pull from the remote repository. If it uses a secure connection, please set up the appropriate SSH keys on the remote server.	ProjectWindow		Unable to pull from the remote repository. If it uses a secure connection, please set up the appropriate SSH keys on the remote server.
+unavailable	PrefsWindow		unavailable
+Unit separator	AsciiWindow	ASCII table description	Unit separator
+Unknown	SCMManager		Unknown
+Update dependencies	ProjectWindow		Update dependencies
+Updating dependencies	ProjectWindow		Updating dependencies
+Updating resources	ProjectWindow		Updating resources
+Updating resources\n	Paladin		Updating resources\n
+Usage: Paladin [-b] [-m] [-r] [-s] [-d] [-v] [file1 [file2 ...]]\n-b, Build the specified project. Only one file can be specified with this switch.\n-m, Generate a makefile for the specified project.\n-r, Completely rebuild the project.\n-s, Use only one thread for building.\n-d, Print debugging output.\n-v, Make debugging mode verbose.\n	Paladin		Usage: Paladin [-b] [-m] [-r] [-s] [-d] [-v] [file1 [file2 ...]]\n-b, Build the specified project. Only one file can be specified with this switch.\n-m, Generate a makefile for the specified project.\n-r, Completely rebuild the project.\n-s, Use only one thread for building.\n-d, Print debugging output.\n-v, Make debugging mode verbose.\n
+Use ccache to build faster	PrefsWindow		Use ccache to build faster
+Use fastdep dependency checker	PrefsWindow		Use fastdep dependency checker
+Use single thread	PrefsWindow		Use single thread
+Use the fastdep dependency checker instead of gcc	PrefsWindow		Use the fastdep dependency checker instead of gcc
+User libraries:	LibWindow		User libraries:
+Username:	SCMImportWindow		Username:
+Vertical tab	AsciiWindow	ASCII table description	Vertical tab
+Warnings	ErrorWindow		Warnings
+When checked, a project's folder is shown in Tracker when it is opened.	PrefsWindow		When checked, a project's folder is shown in Tracker when it is opened.
+Yes	Paladin		Yes
+Your project does not have debugging information compiled in and will need to be rebuilt to debug. Do you wish to rebuild and run the debugger?	ProjectWindow		Your project does not have debugging information compiled in and will need to be rebuilt to debug. Do you wish to rebuild and run the debugger?
